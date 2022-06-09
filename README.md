@@ -1,4 +1,6 @@
-[![Actions Status](https://github.com/DenisLoza/hexlet-ci-app/workflows/Node_CI/badge.svg)](https://github.com/DenisLoza/hexlet-ci-app/actions/workflows/node-js.yml)
+[![Actions Status setup, linter](https://github.com/DenisLoza/hexlet-ci-app/workflows/Node_CI/badge.svg)](https://github.com/DenisLoza/hexlet-ci-app/actions/workflows/node-js.yml)
+
+[![Actions Status snyk-gate](https://github.com/DenisLoza/hexlet-ci-app/workflows/Snyk-Security-Gate/badge.svg)](https://github.com/DenisLoza/hexlet-ci-app/actions/workflows/snyk-gate.yml)
 
 # Example app for CI Hexlet course
 
